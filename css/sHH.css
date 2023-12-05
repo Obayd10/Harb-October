@@ -1,0 +1,19 @@
+body {
+  background-color: #ffefd5;
+}
+
+h1 {
+  color: #ff8c00;
+}
+
+a {
+  color: #00ffff;
+}
+
+.images {
+  background-color: #ffff00;
+}
+
+img {
+  border: 2px solid #00ff00;
+}
